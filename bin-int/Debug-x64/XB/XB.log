@@ -1,2 +1,12 @@
-﻿  Application.cpp
+﻿  Log.cpp
+C:\dev\XB\XB\src\XB\Log.h(14,42): warning C4251: 'XB::Log::s_CoreLogger': 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of 'XB::Log'
+  (compiling source file 'src/XB/Log.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\memory(1588,7):
+      see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+C:\dev\XB\XB\src\XB\Log.h(15,42): warning C4251: 'XB::Log::s_ClientLogger': 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of 'XB::Log'
+  (compiling source file 'src/XB/Log.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\memory(1588,7):
+      see declaration of 'std::shared_ptr<spdlog::logger>'
+  
   XB.vcxproj -> C:\dev\XB\bin\Debug-x64\XB\XB.dll

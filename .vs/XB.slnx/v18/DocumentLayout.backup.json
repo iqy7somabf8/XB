@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\XB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|C:\\dev\\XB\\XB\\src\\XB\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|solutionrelative:XB\\src\\XB\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|C:\\dev\\XB\\XB\\src\\XB\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|solutionrelative:XB\\src\\XB\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1195A335-A14F-4F84-BD93-6BC0E093B8AF}|Sandbox\\Sandbox.vcxproj|C:\\dev\\XB\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1195A335-A14F-4F84-BD93-6BC0E093B8AF}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|C:\\dev\\XB\\XB\\src\\XB\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|solutionrelative:XB\\src\\XB\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|C:\\dev\\XB\\XB\\src\\XB\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|solutionrelative:XB\\src\\XB\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6927B04-14EF-48F9-B9C8-479C8DC378A5}|XB\\XB.vcxproj|C:\\dev\\XB\\XB\\src\\XB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EntryPoint.h",
-              "DocumentMoniker": "C:\\dev\\XB\\XB\\src\\XB\\EntryPoint.h",
-              "RelativeDocumentMoniker": "XB\\src\\XB\\EntryPoint.h",
-              "ToolTip": "C:\\dev\\XB\\XB\\src\\XB\\EntryPoint.h",
-              "RelativeToolTip": "XB\\src\\XB\\EntryPoint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-19T23:06:36.726Z",
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "C:\\dev\\XB\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "C:\\dev\\XB\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-04T06:52:21.556Z",
               "EditorCaption": ""
             },
             {
@@ -57,35 +57,35 @@
               "RelativeDocumentMoniker": "XB\\src\\XB.h",
               "ToolTip": "C:\\dev\\XB\\XB\\src\\XB.h",
               "RelativeToolTip": "XB\\src\\XB.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-19T22:55:46.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SandboxApp.cpp",
-              "DocumentMoniker": "C:\\dev\\XB\\Sandbox\\src\\SandboxApp.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
-              "ToolTip": "C:\\dev\\XB\\Sandbox\\src\\SandboxApp.cpp",
-              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-19T22:54:06.072Z",
+              "WhenOpened": "2026-06-04T06:50:42.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Application.h",
-              "DocumentMoniker": "C:\\dev\\XB\\XB\\src\\XB\\Application.h",
-              "RelativeDocumentMoniker": "XB\\src\\XB\\Application.h",
-              "ToolTip": "C:\\dev\\XB\\XB\\src\\XB\\Application.h",
-              "RelativeToolTip": "XB\\src\\XB\\Application.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\dev\\XB\\XB\\src\\XB\\Log.cpp",
+              "RelativeDocumentMoniker": "XB\\src\\XB\\Log.cpp",
+              "ToolTip": "C:\\dev\\XB\\XB\\src\\XB\\Log.cpp",
+              "RelativeToolTip": "XB\\src\\XB\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T20:07:29.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Log.h",
+              "DocumentMoniker": "C:\\dev\\XB\\XB\\src\\XB\\Log.h",
+              "RelativeDocumentMoniker": "XB\\src\\XB\\Log.h",
+              "ToolTip": "C:\\dev\\XB\\XB\\src\\XB\\Log.h",
+              "RelativeToolTip": "XB\\src\\XB\\Log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-19T22:53:39.233Z",
+              "WhenOpened": "2026-05-20T20:07:14.176Z",
               "EditorCaption": ""
             }
           ]
