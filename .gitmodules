@@ -2,6 +2,6 @@
 	path = XB/vendor/spdlog
 	url = https://github.com/gabime/spdlog
 
-[submodule "XB/vendor/premake"]
+[submodule "vendor/bin/premake"]
 	path = XB/vendor/premake
 	url = https://github.com/premake/premake-core
